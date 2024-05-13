@@ -1,43 +1,39 @@
-# [Challenge Name] Challenge
+# Energy Efficient IoT Networks Challenge
 
-Welcome to the [Challenge Name] Challenge! This repository serves as the central hub for all information, resources, and interactions related to the challenge.
+Welcome to the Greenedge Contest! This repository serves as the central hub for all information, resources, and interactions related to the challenge.
 
 ## Problem Statement
 
-[Include a brief overview of the problem statement, its significance, and any specific goals or objectives.]
+The problem statement is given in the file [Internet_of_Things.pdf](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/files/15291002/Internet_of_Things.pdf)
 
 ## Software Package
 
-[Describe the software package provided for the challenge. Include details on how to install, configure, and use the software. Provide any necessary dependencies and setup instructions.]
+The following software packages can be used:
+https://github.com/Pyomo/pyomo
 
-## Submission Guidelines
+## Participation instructions
+Teams of up to 3 people are allowed. 
+Subscribe to the challenge using the form at this link https://docs.google.com/forms/d/1yRJeGClPCQ2gYcFEnlYAFMhkZ9-wMnOJwHa8VXHpn6M/viewform?edit_requested=true.
+Participants are requested to indicate the project they would like to apply for (1. Cybersecurity, 2. Image classification, 3. Internet of Things). Multiple participations are allowed. 
+Subscription deadline: May 15, 2024.
+Three webinars will follow, one per project, where the GREENEDGE scientists will meet the teams, providing guidance and help in the definition of the objectives, clarifying any possible questions that the teams may have, as follows:
+Webinar for problem statement 1 (Cybersecurity): May 20, 2024. 
+Webinar for problem statement 2 (Image Classification): May 21, 2024.
+Webinar for problem statement 3 (Internet of Things): May 22, 2024. 
+Final project submission from the teams: June 15, 2024. (A submission link will be sent to the participants in due time).
+Contest winners’ announcement: July 30, 2024.
 
-[Detail the submission process for participants, including how to submit their software and reports. Provide instructions on what needs to be included in their submissions and any formatting guidelines.]
-
-### Submission Template
-
-[Provide a template or outline for participants to follow when submitting their work. Include sections for software files, reports, and any additional documentation.]
-
+## Submission guidelines
+The final proposed solution will comprise a ZIP file that contains:
+• The full code is developed in any programming language, following the
+input/output instructions mentioned above.
+• A PDF document explaining the developed solution and the different approaches
+used to carry out this challenge, discussing the chosen strategy,
+libraries, solvers, and others (max 1 page).
 ## Q&A Forum
-
-[Encourage participants to use the issue tracker as a forum for asking questions, seeking clarification, and resolving any issues they encounter during the challenge. Assign team members to monitor and respond to questions promptly.]
-
-## Resources
-
-[Include any additional resources or references that may be helpful for participants, such as sample datasets, related research papers, or tutorials.]
+Report any issues or ask questions here https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/issues
 
 ## Contact Information
 
 [Provide contact information for the organizers of the challenge, including email addresses or links to relevant communication channels.]
 
-## License
-
-[Specify the license under which the challenge materials and submissions are distributed. Choose a license that aligns with the goals and requirements of the challenge.]
-
-## Acknowledgements
-
-[Optional: Acknowledge any individuals, organizations, or funding sources that have contributed to the development and execution of the challenge.]
-
-## About [Your Organization]
-
-[Provide a brief overview of your organization, its mission, and any relevant information about your involvement in hosting the challenge.]
