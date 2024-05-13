@@ -17,9 +17,9 @@ The following software packages can be used:
  Participants are requested to indicate the project they would like to apply for (1. Cybersecurity, 2. Image classification, 3. Internet of Things). Multiple participations are allowed. <br>
  Subscription deadline: May 15, 2024.<br>
  Three webinars will follow, one per project, where the GREENEDGE scientists will meet the teams, providing guidance and help in the definition of the objectives, clarifying any possible questions that the teams may have, as follows:<br>
- -Webinar for problem statement 1 (Cybersecurity): May 20, 2024. <br>
- -Webinar for problem statement 2 (Image Classification): May 21, 2024.<br>
- -Webinar for problem statement 3 (Internet of Things): May 22, 2024. <br>
+ Webinar for problem statement 1 (Cybersecurity): May 20, 2024. <br>
+ Webinar for problem statement 2 (Image Classification): May 21, 2024.<br>
+ Webinar for problem statement 3 (Internet of Things): May 22, 2024. <br>
  Final project submission from the teams: -June 15, 2024. (A submission link will be sent to the participants in due time).<br>
  Contest winners’ announcement: -July 30, 2024.
 
