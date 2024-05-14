@@ -21,10 +21,10 @@ As an option following software package can be used:
  Webinar for problem statement 2 (Image Classification): May 21, 2024.<br>
  Webinar for problem statement 3 (Internet of Things): May 22, 2024. <br>
  Final project submission from the teams: June 15, 2024. (A submission link will be sent to the participants in due time).<br>
- Contest winners’ announcement: -July 30, 2024.
+ Contest winners’ announcement: July 30, 2024.
 
 ## Submission guidelines
- The final proposed solution will comprise a ZIP file that contains and should be uploaded to the following email greenedgecontest@gmail.com
+ The final proposed solution will comprise a ZIP file that contains and should be sent to the following email greenedgecontest@gmail.com
  and solutions will be stored in the [folder](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/tree/main/Solutions):
 - The full code is developed in any programming language, following the
 input/output instructions mentioned above.
