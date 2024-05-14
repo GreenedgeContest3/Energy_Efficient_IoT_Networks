@@ -6,9 +6,9 @@ Welcome to the Greenedge Contest! This repository serves as the central hub for 
 
 The problem statement is given in the file [Internet_of_Things.pdf](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/files/15291002/Internet_of_Things.pdf)
 
-## Software Package
+## Software Packages
 
-The following software packages can be used:
+As an option following software package can be used:
  https://github.com/Pyomo/pyomo
 
 ## Participation instructions
@@ -24,7 +24,8 @@ The following software packages can be used:
  Contest winners’ announcement: -July 30, 2024.
 
 ## Submission guidelines
- The final proposed solution will comprise a ZIP file that contains and should be uploaded to the following [folder](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/tree/main/Solutions):
+ The final proposed solution will comprise a ZIP file that contains and should be uploaded to the following email greenedgecontest@gmail.com
+ and solutions will be stored in the [folder](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/tree/main/Solutions):
 - The full code is developed in any programming language, following the
 input/output instructions mentioned above.
 - A PDF document explaining the developed solution and the different approaches
