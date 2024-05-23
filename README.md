@@ -4,7 +4,7 @@ Welcome to the Greenedge Contest! This repository serves as the central hub for 
 
 ## Problem Statement
 
-The problem statement is given in the file [Internet_of_Things.pdf](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/files/15291002/Greenedge_Contest3.pdf)
+The problem statement is given in the file [Greenedge_Contest3.pdf](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/files/15291002/Greenedge_Contest3.pdf)
 
 ## Software Packages
 
