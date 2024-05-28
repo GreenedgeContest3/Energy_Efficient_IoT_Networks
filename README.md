@@ -24,7 +24,7 @@ As an option following software package can be used:
  Contest winners’ announcement: July 30, 2024.
 
 ## Submission guidelines
- The final proposed solution will comprise a ZIP file that contains and should be sent to the following email greenedgecontest@gmail.com
+ The final proposed solution will comprise a ZIP file that contains and should be sent to the following email greenedge_ps3@dei.unipd.it
  and solutions will be stored in the [folder](https://github.com/GreenedgeContest3/Energy_Efficient_IoT_Networks/tree/main/Solutions):
 - The full code is developed in any programming language, following the
 input/output instructions mentioned above.
